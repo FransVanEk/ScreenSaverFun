@@ -13,7 +13,7 @@ code zodat je eigen screensaver geactiveerd wordt.
         graphicsManager=new SimpleLinesManager(width,height); // change to your own
         timer=new Timer(1,this);
         timer.start();
-        setFocusable(true); // Make sure the JPanel can gain focus
+        setFocusable(true); 
         setKeyStrokes();
         }
 ````
@@ -28,7 +28,7 @@ screensaver. [LinesManager.java](src%2Fmain%2Fjava%2Fnl%2Fnovi%2Fscreensaverfun%
         graphicsManager=new LinesManager(width,height);
         timer=new Timer(1,this);
         timer.start();
-        setFocusable(true); // Make sure the JPanel can gain focus
+        setFocusable(true); 
         setKeyStrokes();
         }
 ````
