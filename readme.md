@@ -1,4 +1,4 @@
-# Getting Started
+# Getting started
 
 Maak je eigen implementatie van
 de [GraphicsManagerBase.java](src%2Fmain%2Fjava%2Fnl%2Fnovi%2Fscreensaverfun%2Finterfaces%2FGraphicsManagerBase.java) in
